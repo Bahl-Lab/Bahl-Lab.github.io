@@ -8,6 +8,16 @@ permalink: /Publications/
 
 
 <body>
+Kuhn, J.H., Adkins, S., Alioto, D. Alkhovsky SV, Amarasinghe GK, Anthony SJ, Avšič-Županc T, Ayllón MA, Bahl J, et al. (2020) 2020 taxonomic update for phylum Negarnaviricota(Riboviria: Orthornavirae), including the large orders Bunyavirales and Mononegavirales. <u>Arch Virol</u> <b>165, 3023–3072 doi: 10.1007/s00705-020-04731-2</b>.<p>
+Zhang J, Yao J, Jiang J, Pan Z, Luo M, Xia Y, Fan Q, Ding X, Ruan J, Handel A, Bahl J, Chen W, Zha L, Fu T (2020) Migration interacts with the local transmission of HIV in developed trade areas: A molecular transmission network analysis in China, <U>Infection, Genetics and Evolution</u> <b>Volume 84, doi: 10.1016/j.meegid.2020.104376</b><p>
+Kwon, J-H, Bahl J, Swayne DE, Lee Y-N, Lee Y-J, Song C-S, Lee D-H (2020) Domestic ducks play a major role in the maintenance and spread of H5N8 highly pathogenic avian influenza viruses in South Korea. <u>Transboundary and emerging diseases </u> <b> doi: 10.1111/tbed.13406</b> <p>
+4.	Hicks JT‡, Lee D-H, Duvuuri‡ VR, Kim Torchetti M, Swayne DE, Bahl J* (2020) Agricultural and geographic factors shaped the North American 2015 highly pathogenic avian influenza H5N2 outbreak. PLoS Pathog 16(1): e1007857. doi: 10.1371/journal.ppat.1007857<p>
+5.	Piedra F-A, Qiu X‡, Teng MN, Avadhanula V, Machado AA, Kim D-K, Hixson J, Bahl J, Piedra PA (2020) Non-gradient and genotype-dependent patterns of RSV gene expression. PLoS ONE 15(1): e0227558. doi: 10.1371/journal.pone.0227558<p>
+6.	Hicks JT‡, Dimitrov KM, Afonso C. Ramey AM, Bahl J* (2019). Global phylodynamic analysis of avian paramyxovirus-1 provides evidence of inter-host transmission and intercontinental spatial diffusion. BMC Evol Biol 19, 108 (2019). doi: 10.1186/s12862-019-1431-2<p>
+7.	Kwon, J‐H, Bahl, J, Swayne, DE, Lee Y-N, Lee Y-J, Song C-S, Lee D-H (2019). Domestic ducks play a major role in the maintenance and spread of H5N8 highly pathogenic avian influenza viruses in South Korea. Transbound Emerg Dis. 00: 1– 8. doi: 10.1111/tbed.13406<p>
+8.	Dimitrov KM, Abolnik C, Afonso CL, Albina E, Bahl J, Berg M, Briand F-X, Brown IH, Choi K-S, Chvala I, Diel DG, Durr PA, Ferreira HL, Fusaro A, Gil P, Goujgoulova GV, Grund C, Hicks JT‡, Joannis TM, Torchetti MK, Kolosov S, Lambrecht B, Lewis NS, Liu H, Liu H, McCullough S, Miller PJ, Monne I, Muller CP, Munir M, Reischak D, Sabra M, Samal SK, Servan de Almeida R, Shittu I, Snoeck CJ, Suarez DL, Van Borm S, Wang Z, Wong FYK. (2019) Updated unified phylogenetic classification system and revised nomenclature for Newcastle disease virus. Infection, Genetics and Evolution, 74. doi: 10.1016/j.meegid.2019.103917<p>
+
+
 Qiu, X., V. R. Duvvuri and J. Bahl (2019). &quot;Computational Approaches and Challenges to Developing Universal Influenza Vaccines.&quot; <u>Vaccines (Basel)</u> <b>7</b>(2).<p>
 Kwon, J. H., J. Bahl, D. E. Swayne, Y. N. Lee, Y. J. Lee, C. S. Song and D. H. Lee (2019). &quot;Domestic ducks play a major role in the maintenance and spread of H5N8 highly pathogenic avian influenza viruses in South Korea.&quot;<p>
 Kandeil, A., J. T. Hicks and S. G. Young (2019). &quot;Active surveillance and genetic evolution of avian influenza viruses in Egypt, 2016-2018.&quot; <u>Transbound Emerg Dis</u> <b>8</b>(1): 1370-1382.<p>
