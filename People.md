@@ -24,14 +24,6 @@ Lambodhar Damodaran - Phd Student - Institute of Bioinformatics
 
 Cody Dailey - Phd Student - Department of Epidemiology and Biostatistics
 
-<img align="middle" src="/Labmems/image4.jpg" title="Zachary Petty" width="100" height="100">
-
-Zachary Petty - Phd Student - Institute of Bioinformatics
-
-<img align="middle" src="/Labmems/image9.jpg" title="Shuban Ullah" width="100" height="100">
-
-Shuban Ullah - Phd Student - Department of Infectious Disease
-
 <img align="middle" src="/Labmems/image6.jpg" title="Leke Lyu" width="100" height="100">
 
 Leke Lyu - Phd Student - Institute of Bioinformatics
@@ -43,6 +35,14 @@ Swan Tan - Phd Student - Department of Infectious Disease
 
 ## Alumni
 
+
+<img align="middle" src="/Labmems/image4.jpg" title="Zachary Petty" width="100" height="100">
+
+Zachary Petty - MSc - Institute of Bioinformatics
+
+<img align="middle" src="/Labmems/image9.jpg" title="Shuban Ullah" width="100" height="100">
+
+Suban Ullah - Phd Student - Department of Infectious Disease (Ross Lab)
 
 <img align="middle" src="/Labmems/image7.jpeg" title="Xueting Qiu" width="100" height="100">
 
