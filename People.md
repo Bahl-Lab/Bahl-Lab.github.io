@@ -32,6 +32,8 @@ Leke Lyu - Phd Student - Institute of Bioinformatics
 
 Swan Tan - Phd Student - Department of Infectious Disease
 
+Gabriella Veytsal - Phd Student - Institute of Bioinformatics
+
 
 ## Alumni
 
@@ -55,3 +57,11 @@ Joseph Hicks - CDC Fellow - Epidemic Intelligence Service
 <img align="middle" src="/Labmems/image10.jpeg" title="Venkata Duvvuri" width="100" height="100">
 
 Venkata Duvvuri - Data Scientist - Institute for Systems Biology,Seattle WA
+
+
+
+## REU Students
+
+Grant Wang (Baylor University) - Summer 2020 
+Jenebi Benoit (Wentworth Insitute of Technology) - Summer 2021
+
