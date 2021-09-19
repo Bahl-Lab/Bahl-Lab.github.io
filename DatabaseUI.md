@@ -6,34 +6,6 @@ permalink: /DatabaseUI/
 
     
 <body>
-    <style media="only screen">
-        html,
-        body {
-            height: 100%;
-            width: 100%;
-            margin: 0;
-            box-sizing: border-box;
-            -webkit-overflow-scrolling: touch;
-        }
-        
-        html {
-            position: absolute;
-            top: 0;
-            left: 0;
-            padding: 0;
-            overflow: auto;
-        }
-        
-        body {
-            padding: 1rem;
-            overflow: auto;
-        }
-        .button-group {
-    padding-bottom: 4px;
-    display: block;
-  }
-  
-    </style>
       <div style="height: 100%; display: flex; flex-direction: column;">
         <p>
             Data file name:
@@ -42,7 +14,7 @@ permalink: /DatabaseUI/
         </p>
         <a href="/index.html">Back</a>
 
-        <div style="flex-grow: 1; height: 10px;">
+        <div style="flex-grow: 1; height: 100%;">
             <div id="myGrid" class="ag-theme-alpine" style="height: 100%;">
             </div>
         </div>
