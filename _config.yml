@@ -43,7 +43,7 @@ header_pages:
  - about.md
  - People.md
  - Publications.md
- 
+ - DatabaseUI.md
 
 # Build settings
 theme: minima
