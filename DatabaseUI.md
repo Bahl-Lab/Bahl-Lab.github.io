@@ -6,13 +6,12 @@ permalink: /DatabaseUI/
 
     
 <body>
-      <div style="height: 100%; display: flex; flex-direction: column;">
+      <div style="width:920px;height:900px; display: flex; flex-direction: column;">
         <p>
             Data file name:
             <input id="dataFileName" type="text" value="HA.json" style="width: 250px;" />
 
         </p>
-        <a href="/index.html">Back</a>
 
         <div style="flex-grow: 1; height: 100%;">
             <div id="myGrid" class="ag-theme-alpine" style="height: 100%;">
