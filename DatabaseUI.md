@@ -3,6 +3,9 @@ layout: page
 title: Database User Interface
 permalink: /DatabaseUI/
 ---
+
+    
+<body>
     <style media="only screen">
         html,
         body {
@@ -31,9 +34,6 @@ permalink: /DatabaseUI/
   }
   
     </style>
-    
-<body>
-
       <div style="height: 100%; display: flex; flex-direction: column;">
         <p>
             Data file name:
