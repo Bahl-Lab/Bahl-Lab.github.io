@@ -52,8 +52,7 @@ Xueting Qiu - Post Doc - Harvard T.H. Chan School of Public Health
 
 <img align="middle" src="/Labmems/image8.jpeg" title="Joseph Hicks" width="100" height="100">
 
-Joseph Hicks - Research Associate - Imperial College 
-               Former: CDC - Epidemic Intelligence Service (EIS) Officer
+Joseph Hicks - Research Associate - Imperial College, Former: CDC - Epidemic Intelligence Service (EIS) Officer
 
 <img align="middle" src="/Labmems/image10.jpeg" title="Venkata Duvvuri" width="100" height="100">
 
