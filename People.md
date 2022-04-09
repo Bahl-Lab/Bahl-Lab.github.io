@@ -12,7 +12,7 @@ Justin Bahl is an associate professor in the Department of Infectious Disease, D
 
 ## Team
 
-<img align="middle" src="/Labmems/08_26_2021_AbdallahAlsammani005RT.jpg" title="Abdallah Alsammani" width="80" height="100">
+<img align="middle" src="/Labmems/08_26_2021_AbdallahAlsammani.jpg" title="Abdallah Alsammani" width="80" height="100">
 
 Abdallah Alsammani - Post-Doc
 Research interest: Mathematical modeling of viral diseases, using tools from dynamical systems, stochastic processes, computational mathematics, data science, and machine learning. 
