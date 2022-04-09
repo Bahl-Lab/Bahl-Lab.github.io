@@ -41,6 +41,10 @@ Swan Tan - Phd Student - Department of Infectious Disease
 
 Gabriella Veytsal - Phd Student - Institute of Bioinformatics
 
+<img align="middle" src="/Labmems/00100lrPORTRAIT_00100_BURST20200429155245727_COVER.jpg" title="Swan Tan" width="100" height="100">
+
+Garrick Stott - PhD Student - Institute of Bioinformatics
+
 
 ## Alumni
 
