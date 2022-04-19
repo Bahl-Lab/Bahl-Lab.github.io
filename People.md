@@ -39,9 +39,9 @@ Leke Lyu - Phd Student - Institute of Bioinformatics
 
 Swan Tan - Phd Student - Department of Infectious Disease
 
-<img align="middle" src="/Labmems/Veytsal.jpg" title="Gabriella Veytsal" width="100" height="100">
+<img align="middle" src="/Labmems/Veytsel.jpg" title="Gabriella Veytsal" width="100" height="100">
 
-Gabriella Veytsal - Phd Student - Institute of Bioinformatics
+Gabriella Veytsel - Phd Student - Institute of Bioinformatics
 
 <img align="middle" src="/Labmems/00100lrPORTRAIT_00100_BURST20200429155245727_COVER.jpg" title="Garrick Stott Tan" width="100" height="100">
 
