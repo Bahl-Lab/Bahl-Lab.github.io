@@ -16,12 +16,6 @@ Contact me (justin dot bahl @ uga dot edu) for more information.
 
 ## Team
 
-<img align="middle" src="/Labmems/08_26_2021_AbdallahAlsammani.jpg" title="Abdallah Alsammani" width="100" height="100">
-
-Abdallah Alsammani - Post-Doc
-Research interest: Mathematical modeling of viral diseases, using tools from dynamical systems, stochastic processes, computational mathematics, data science, and machine learning. 
-https://scholar.google.com/citations?user=VdF5v_oAAAAJ&hl=en&oi=ao
-
 
 <img align="middle" src="/Labmems/image3.jpg" title="Cody Dailey" width="100" height="100">
 
@@ -42,6 +36,11 @@ Garrick Stott - PhD Student - Institute of Bioinformatics
 
 ## Alumni
 
+<img align="middle" src="/Labmems/08_26_2021_AbdallahAlsammani.jpg" title="Abdallah Alsammani" width="100" height="100">
+
+Abdallah Alsammani - Post-Doc. Current position: Jacksonville University
+Research interest: Mathematical modeling of viral diseases, using tools from dynamical systems, stochastic processes, computational mathematics, data science, and machine learning. 
+https://scholar.google.com/citations?user=VdF5v_oAAAAJ&hl=en&oi=ao
 
 <img align="middle" src="/Labmems/image7.png" title="Swan Tan" width="100" height="100">
 
