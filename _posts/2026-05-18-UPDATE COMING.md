@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-# Welcome to the Bahl lab! We are updating our website.
+# This page is defunct. https://www.bahllab.com is the new website
 
 This page is defunct. For up-to-date information on the Bahl Lab check out
 
